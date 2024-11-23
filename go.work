@@ -7,5 +7,5 @@ use (
 	./app-json
 	./app-slug
 	./app-upload
-	./toolkit
+	./go-toolkit
 )
